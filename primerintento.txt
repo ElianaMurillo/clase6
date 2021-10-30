@@ -1,0 +1,1 @@
+Hola, estoy realizando la primera modificación al archivo desde nano.
